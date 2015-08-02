@@ -1,0 +1,501 @@
+/*----------------------------------
+
+	Theme Name: Papillon
+	----------------------
+	
+/*----------------------------------
+	
+	/* #Color Skins
+================================================== */
+.colorskin-1 .blox.dark *,.colorskin-2 .blox.dark *,.colorskin-3 .blox.dark *,.colorskin-4 .blox.dark *,.colorskin-5 .blox.dark *,.colorskin-6 .blox.dark *,.colorskin-7 .blox.dark *,.colorskin-8 .blox.dark *,.colorskin-9 .blox.dark *,.colorskin-10 .blox.dark *{color:#fff},.colorskin-11 .blox.dark *{color:#fff},.colorskin-12 .blox.dark *{color:#fff},.colorskin-13 .blox.dark *{color:#fff},.colorskin-14 .blox.dark *{color:#fff},.colorskin-15 .blox.dark *{color:#fff},.colorskin-16 .blox.dark *{color:#fff},.colorskin-17 .blox.dark *{color:#fff},.colorskin-18 .blox.dark *{color:#fff},.colorskin-19 .blox.dark *{color:#fff},.colorskin-20 .blox.dark *{color:#fff}
+
+
+
+/* == Color Skin 1 #(Teal)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-1 .top-links a:hover, .colorskin-1 .nav-wrap2 #nav > li:hover > a, .colorskin-1 #nav ul li a:hover, .colorskin-1 #nav li.current ul li a:hover, .colorskin-1 .nav-wrap2 #nav ul li a:hover, .colorskin-1 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-1 #nav ul li.current > a, .colorskin-1 #nav ul li:hover > a, .colorskin-1 .a-post-box .latest-title a:hover, .colorskin-1 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-1 .search-results .blog-post h3 a:hover, .colorskin-1 .widget ul .cat-item, .colorskin-1 .widget .widget-tabs .tab_content ul li a, .colorskin-1 .latestposts-three h3.latest-b2-title a:hover, .colorskin-1 .a-post-box .latest-title a:hover, .colorskin-1 .teaser-box1 .content-wrapper a:hover h4, .colorskin-1 .teaser-box2 .content-wrapper a:hover h2, .colorskin-1 .latestposts-six .latest-content p.latest-date, .colorskin-1 .latestposts-six .latest-title a:hover, .colorskin-1 .latest-cat .lc-main h4 a:hover, .colorskin-1 .latest-cat .blog-post p.blog-author a, .colorskin-1 .blog-line:hover h4 a, .colorskin-1 .blog-line:hover .img-hover:before, .colorskin-1 .latestposts-two .latest-title a:hover, .colorskin-1 .latestposts-two .blog-post a:hover, .colorskin-1 .blog-post p.blog-cat a, .colorskin-1 .blog-line p.blog-cat a, .colorskin-1 .latestposts-two .blog-line:hover h4 a, .colorskin-1 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-1 .our-team h5, .colorskin-1 a.magicmore, .colorskin-1 a.magicmore:hover, .colorskin-1 .max-quote h2:before, .colorskin-1 .max-quote h2:after, .colorskin-1 .pin-box h4 a:hover, .colorskin-1 .tline-box h4 a:hover, .colorskin-1 #nav ul li a:hover, .colorskin-1 #nav li.current ul li a:hover, .colorskin-1 .nav-wrap2 #nav ul li a:hover, .colorskin-1 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-1 #nav ul li.current > a, .colorskin-1 #nav ul li:hover > a .colorskin-1 #nav a:hover, .colorskin-1 #nav li:hover > a, .colorskin-1 #nav li.current > a, .colorskin-1 #nav li.active > a, .colorskin-1 .blog-p a:hover, .colorskin-1 .search-results .blog-post h3 a:hover, .colorskin-1 .latestposts-one .latest-title a:hover, #wrap.colorskin-1  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-1 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-1 #footer .footer-instagram-bar a.button
+{ color: #1bbc9b; }
+
+/* == Backgrounds
+----------------- */
+.colorskin-1 .a-post-box .latest-cat, .colorskin-1 .blog-p .blog-cat:hover, .colorskin-1 .side-list li:hover img, .colorskin-1 #scroll-top a:hover, .colorskin-1 #footer .footer-social-bar, .colorskin-1 #footer .tagcloud a:hover, .colorskin-1 .toggle-top-area .tagcloud a:hover, .colorskin-1 #footer .footer-in .widget ul .cat-item:hover, .colorskin-1 .latestposts-three h6.latest-b2-cat:hover, .colorskin-1 .a-post-box .latest-cat, .colorskin-1 .teaser-box2 .content-wrapper h5, .colorskin-1 .latestposts-one .latest-b-cat,  #wrap.colorskin-1 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-1 .max-title5:after, .colorskin-1 .contact-details, .colorskin-1 .contact-form .btnSend:hover, .colorskin-1 .icon-box1:hover i, .colorskin-1 .icon-box4:hover i, .colorskin-1 .icon-box7 a.magicmore:hover, .colorskin-1 a.readmore:hover, .colorskin-1 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-1 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-1 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-1 .widget-tabs .tabs li.active, .colorskin-1 .pin-ecxt .pin-cat:hover
+{ background-color: #1bbc9b; }
+
+/* == BorderColors
+------------------ */
+.colorskin-1 a.readmore:hover, .colorskin-1 h6.h-sub-content, .colorskin-1 .max-title4:after, .colorskin-1 .contact-form .btnSend:hover, .colorskin-1 .icon-box1:hover i, .colorskin-1 .icon-box4:hover i, .colorskin-1 .max-title2:after, .colorskin-1 .max-title4:after, .colorskin-1 .widget-tabs .tabs li.active, .colorskin-1 .top-links a:hover, .colorskin-1 a.magicmore:after, #wrap.colorskin-1 #footer .footer-instagram-bar a.button
+{ border-color:#1bbc9b; }
+
+
+
+
+
+/* == Color Skin 2 #(Blue)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-2 .top-links a:hover, .colorskin-2 .nav-wrap2 #nav > li:hover > a, .colorskin-2 #nav ul li a:hover, .colorskin-2 #nav li.current ul li a:hover, .colorskin-2 .nav-wrap2 #nav ul li a:hover, .colorskin-2 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-2 #nav ul li.current > a, .colorskin-2 #nav ul li:hover > a, .colorskin-2 .a-post-box .latest-title a:hover, .colorskin-2 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-2 .search-results .blog-post h3 a:hover, .colorskin-2 .widget ul .cat-item, .colorskin-2 .widget .widget-tabs .tab_content ul li a, .colorskin-2 .latestposts-three h3.latest-b2-title a:hover, .colorskin-2 .a-post-box .latest-title a:hover, .colorskin-2 .teaser-box1 .content-wrapper a:hover h4, .colorskin-2 .teaser-box2 .content-wrapper a:hover h2, .colorskin-2 .latestposts-six .latest-content p.latest-date, .colorskin-2 .latestposts-six .latest-title a:hover, .colorskin-2 .latest-cat .lc-main h4 a:hover, .colorskin-2 .latest-cat .blog-post p.blog-author a, .colorskin-2 .blog-line:hover h4 a, .colorskin-2 .blog-line:hover .img-hover:before, .colorskin-2 .latestposts-two .latest-title a:hover, .colorskin-2 .latestposts-two .blog-post a:hover, .colorskin-2 .blog-post p.blog-cat a, .colorskin-2 .blog-line p.blog-cat a, .colorskin-2 .latestposts-two .blog-line:hover h4 a, .colorskin-2 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-2 .our-team h5, .colorskin-2 a.magicmore, .colorskin-2 a.magicmore:hover, .colorskin-2 .max-quote h2:before, .colorskin-2 .max-quote h2:after, .colorskin-2 .pin-box h4 a:hover, .colorskin-2 .tline-box h4 a:hover, .colorskin-2 #nav ul li a:hover, .colorskin-2 #nav li.current ul li a:hover, .colorskin-2 .nav-wrap2 #nav ul li a:hover, .colorskin-2 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-2 #nav ul li.current > a, .colorskin-2 #nav ul li:hover > a .colorskin-2 #nav a:hover, .colorskin-2 #nav li:hover > a, .colorskin-2 #nav li.current > a, .colorskin-2 #nav li.active > a, .colorskin-2 .blog-p a:hover, .colorskin-2 .search-results .blog-post h3 a:hover, .colorskin-2 .latestposts-one .latest-title a:hover, #wrap.colorskin-2  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-2 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-2 #footer .footer-instagram-bar a.button
+{ color: #0093d0; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-2 .a-post-box .latest-cat, .colorskin-2 .blog-p .blog-cat:hover, .colorskin-2 .side-list li:hover img, .colorskin-2 #scroll-top a:hover, .colorskin-2 #footer .footer-social-bar, .colorskin-2 #footer .tagcloud a:hover, .colorskin-2 .toggle-top-area .tagcloud a:hover, .colorskin-2 #footer .footer-in .widget ul .cat-item:hover, .colorskin-2 .latestposts-three h6.latest-b2-cat:hover, .colorskin-2 .a-post-box .latest-cat, .colorskin-2 .teaser-box2 .content-wrapper h5, .colorskin-2 .latestposts-one .latest-b-cat,  #wrap.colorskin-2 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-2 .max-title5:after, .colorskin-2 .contact-details, .colorskin-2 .contact-form .btnSend:hover, .colorskin-2 .icon-box1:hover i, .colorskin-2 .icon-box4:hover i, .colorskin-2 .icon-box7 a.magicmore:hover, .colorskin-2 a.readmore:hover, .colorskin-2 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-2 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-2 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-2 .widget-tabs .tabs li.active, .colorskin-2 .pin-ecxt .pin-cat:hover
+{ background-color: #0093d0; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-2 a.readmore:hover, .colorskin-2 h6.h-sub-content, .colorskin-2 .max-title4:after, .colorskin-2 .contact-form .btnSend:hover, .colorskin-2 .icon-box1:hover i, .colorskin-2 .icon-box4:hover i, .colorskin-2 .max-title2:after, .colorskin-2 .max-title4:after, .colorskin-2 .widget-tabs .tabs li.active, .colorskin-2 .top-links a:hover, .colorskin-2 a.magicmore:after, #wrap.colorskin-2 #footer .footer-instagram-bar a.button
+{ border-color:#0093d0; }
+
+
+
+
+
+/* == Color Skin 3 #(Red)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-3 .top-links a:hover, .colorskin-3 .nav-wrap2 #nav > li:hover > a, .colorskin-3 #nav ul li a:hover, .colorskin-3 #nav li.current ul li a:hover, .colorskin-3 .nav-wrap2 #nav ul li a:hover, .colorskin-3 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-3 #nav ul li.current > a, .colorskin-3 #nav ul li:hover > a, .colorskin-3 .a-post-box .latest-title a:hover, .colorskin-3 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-3 .search-results .blog-post h3 a:hover, .colorskin-3 .widget ul .cat-item, .colorskin-3 .widget .widget-tabs .tab_content ul li a, .colorskin-3 .latestposts-three h3.latest-b2-title a:hover, .colorskin-3 .a-post-box .latest-title a:hover, .colorskin-3 .teaser-box1 .content-wrapper a:hover h4, .colorskin-3 .teaser-box2 .content-wrapper a:hover h2, .colorskin-3 .latestposts-six .latest-content p.latest-date, .colorskin-3 .latestposts-six .latest-title a:hover, .colorskin-3 .latest-cat .lc-main h4 a:hover, .colorskin-3 .latest-cat .blog-post p.blog-author a, .colorskin-3 .blog-line:hover h4 a, .colorskin-3 .blog-line:hover .img-hover:before, .colorskin-3 .latestposts-two .latest-title a:hover, .colorskin-3 .latestposts-two .blog-post a:hover, .colorskin-3 .blog-post p.blog-cat a, .colorskin-3 .blog-line p.blog-cat a, .colorskin-3 .latestposts-two .blog-line:hover h4 a, .colorskin-3 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-3 .our-team h5, .colorskin-3 a.magicmore, .colorskin-3 a.magicmore:hover, .colorskin-3 .max-quote h2:before, .colorskin-3 .max-quote h2:after, .colorskin-3 .pin-box h4 a:hover, .colorskin-3 .tline-box h4 a:hover, .colorskin-3 #nav ul li a:hover, .colorskin-3 #nav li.current ul li a:hover, .colorskin-3 .nav-wrap2 #nav ul li a:hover, .colorskin-3 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-3 #nav ul li.current > a, .colorskin-3 #nav ul li:hover > a .colorskin-3 #nav a:hover, .colorskin-3 #nav li:hover > a, .colorskin-3 #nav li.current > a, .colorskin-3 #nav li.active > a, .colorskin-3 .blog-p a:hover, .colorskin-3 .search-results .blog-post h3 a:hover, .colorskin-3 .latestposts-one .latest-title a:hover, #wrap.colorskin-3  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-3 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-3 #footer .footer-instagram-bar a.button
+{ color: #e53f51; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-3 .a-post-box .latest-cat, .colorskin-3 .blog-p .blog-cat:hover, .colorskin-3 .side-list li:hover img, .colorskin-3 #scroll-top a:hover, .colorskin-3 #footer .footer-social-bar, .colorskin-3 #footer .tagcloud a:hover, .colorskin-3 .toggle-top-area .tagcloud a:hover, .colorskin-3 #footer .footer-in .widget ul .cat-item:hover, .colorskin-3 .latestposts-three h6.latest-b2-cat:hover, .colorskin-3 .a-post-box .latest-cat, .colorskin-3 .teaser-box2 .content-wrapper h5, .colorskin-3 .latestposts-one .latest-b-cat,  #wrap.colorskin-3 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-3 .max-title5:after, .colorskin-3 .contact-details, .colorskin-3 .contact-form .btnSend:hover, .colorskin-3 .icon-box1:hover i, .colorskin-3 .icon-box4:hover i, .colorskin-3 .icon-box7 a.magicmore:hover, .colorskin-3 a.readmore:hover, .colorskin-3 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-3 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-3 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-3 .widget-tabs .tabs li.active, .colorskin-3 .pin-ecxt .pin-cat:hover
+{ background-color: #e53f51; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-3 a.readmore:hover, .colorskin-3 h6.h-sub-content, .colorskin-3 .max-title4:after, .colorskin-3 .contact-form .btnSend:hover, .colorskin-3 .icon-box1:hover i, .colorskin-3 .icon-box4:hover i, .colorskin-3 .max-title2:after, .colorskin-3 .max-title4:after, .colorskin-3 .widget-tabs .tabs li.active, .colorskin-3 .top-links a:hover, .colorskin-3 a.magicmore:after, #wrap.colorskin-3 #footer .footer-instagram-bar a.button
+{ border-color:#e53f51; }
+
+
+
+
+
+/* == Color Skin 4 #(Yellow)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-4 .top-links a:hover, .colorskin-4 .nav-wrap2 #nav > li:hover > a, .colorskin-4 #nav ul li a:hover, .colorskin-4 #nav li.current ul li a:hover, .colorskin-4 .nav-wrap2 #nav ul li a:hover, .colorskin-4 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-4 #nav ul li.current > a, .colorskin-4 #nav ul li:hover > a, .colorskin-4 .a-post-box .latest-title a:hover, .colorskin-4 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-4 .search-results .blog-post h3 a:hover, .colorskin-4 .widget ul .cat-item, .colorskin-4 .widget .widget-tabs .tab_content ul li a, .colorskin-4 .latestposts-three h3.latest-b2-title a:hover, .colorskin-4 .a-post-box .latest-title a:hover, .colorskin-4 .teaser-box1 .content-wrapper a:hover h4, .colorskin-4 .teaser-box2 .content-wrapper a:hover h2, .colorskin-4 .latestposts-six .latest-content p.latest-date, .colorskin-4 .latestposts-six .latest-title a:hover, .colorskin-4 .latest-cat .lc-main h4 a:hover, .colorskin-4 .latest-cat .blog-post p.blog-author a, .colorskin-4 .blog-line:hover h4 a, .colorskin-4 .blog-line:hover .img-hover:before, .colorskin-4 .latestposts-two .latest-title a:hover, .colorskin-4 .latestposts-two .blog-post a:hover, .colorskin-4 .blog-post p.blog-cat a, .colorskin-4 .blog-line p.blog-cat a, .colorskin-4 .latestposts-two .blog-line:hover h4 a, .colorskin-4 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-4 .our-team h5, .colorskin-4 a.magicmore, .colorskin-4 a.magicmore:hover, .colorskin-4 .max-quote h2:before, .colorskin-4 .max-quote h2:after, .colorskin-4 .pin-box h4 a:hover, .colorskin-4 .tline-box h4 a:hover, .colorskin-4 #nav ul li a:hover, .colorskin-4 #nav li.current ul li a:hover, .colorskin-4 .nav-wrap2 #nav ul li a:hover, .colorskin-4 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-4 #nav ul li.current > a, .colorskin-4 #nav ul li:hover > a .colorskin-4 #nav a:hover, .colorskin-4 #nav li:hover > a, .colorskin-4 #nav li.current > a, .colorskin-4 #nav li.active > a, .colorskin-4 .blog-p a:hover, .colorskin-4 .search-results .blog-post h3 a:hover, .colorskin-4 .latestposts-one .latest-title a:hover, #wrap.colorskin-4  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-4 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-4 #footer .footer-instagram-bar a.button
+{ color: #f1c40f; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-4 .a-post-box .latest-cat, .colorskin-4 .blog-p .blog-cat:hover, .colorskin-4 .side-list li:hover img, .colorskin-4 #scroll-top a:hover, .colorskin-4 #footer .footer-social-bar, .colorskin-4 #footer .tagcloud a:hover, .colorskin-4 .toggle-top-area .tagcloud a:hover, .colorskin-4 #footer .footer-in .widget ul .cat-item:hover, .colorskin-4 .latestposts-three h6.latest-b2-cat:hover, .colorskin-4 .a-post-box .latest-cat, .colorskin-4 .teaser-box2 .content-wrapper h5, .colorskin-4 .latestposts-one .latest-b-cat,  #wrap.colorskin-4 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-4 .max-title5:after, .colorskin-4 .contact-details, .colorskin-4 .contact-form .btnSend:hover, .colorskin-4 .icon-box1:hover i, .colorskin-4 .icon-box4:hover i, .colorskin-4 .icon-box7 a.magicmore:hover, .colorskin-4 a.readmore:hover, .colorskin-4 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-4 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-4 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-4 .widget-tabs .tabs li.active, .colorskin-4 .pin-ecxt .pin-cat:hover
+{ background-color: #f1c40f; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-4 a.readmore:hover, .colorskin-4 h6.h-sub-content, .colorskin-4 .max-title4:after, .colorskin-4 .contact-form .btnSend:hover, .colorskin-4 .icon-box1:hover i, .colorskin-4 .icon-box4:hover i, .colorskin-4 .max-title2:after, .colorskin-4 .max-title4:after, .colorskin-4 .widget-tabs .tabs li.active, .colorskin-4 .top-links a:hover, .colorskin-4 a.magicmore:after, #wrap.colorskin-4 #footer .footer-instagram-bar a.button
+{ border-color:#f1c40f; }
+
+
+
+
+
+/* == Color Skin 5 #(Pink)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-5 .top-links a:hover, .colorskin-5 .nav-wrap2 #nav > li:hover > a, .colorskin-5 #nav ul li a:hover, .colorskin-5 #nav li.current ul li a:hover, .colorskin-5 .nav-wrap2 #nav ul li a:hover, .colorskin-5 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-5 #nav ul li.current > a, .colorskin-5 #nav ul li:hover > a, .colorskin-5 .a-post-box .latest-title a:hover, .colorskin-5 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-5 .search-results .blog-post h3 a:hover, .colorskin-5 .widget ul .cat-item, .colorskin-5 .widget .widget-tabs .tab_content ul li a, .colorskin-5 .latestposts-three h3.latest-b2-title a:hover, .colorskin-5 .a-post-box .latest-title a:hover, .colorskin-5 .teaser-box1 .content-wrapper a:hover h4, .colorskin-5 .teaser-box2 .content-wrapper a:hover h2, .colorskin-5 .latestposts-six .latest-content p.latest-date, .colorskin-5 .latestposts-six .latest-title a:hover, .colorskin-5 .latest-cat .lc-main h4 a:hover, .colorskin-5 .latest-cat .blog-post p.blog-author a, .colorskin-5 .blog-line:hover h4 a, .colorskin-5 .blog-line:hover .img-hover:before, .colorskin-5 .latestposts-two .latest-title a:hover, .colorskin-5 .latestposts-two .blog-post a:hover, .colorskin-5 .blog-post p.blog-cat a, .colorskin-5 .blog-line p.blog-cat a, .colorskin-5 .latestposts-two .blog-line:hover h4 a, .colorskin-5 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-5 .our-team h5, .colorskin-5 a.magicmore, .colorskin-5 a.magicmore:hover, .colorskin-5 .max-quote h2:before, .colorskin-5 .max-quote h2:after, .colorskin-5 .pin-box h4 a:hover, .colorskin-5 .tline-box h4 a:hover, .colorskin-5 #nav ul li a:hover, .colorskin-5 #nav li.current ul li a:hover, .colorskin-5 .nav-wrap2 #nav ul li a:hover, .colorskin-5 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-5 #nav ul li.current > a, .colorskin-5 #nav ul li:hover > a .colorskin-5 #nav a:hover, .colorskin-5 #nav li:hover > a, .colorskin-5 #nav li.current > a, .colorskin-5 #nav li.active > a, .colorskin-5 .blog-p a:hover, .colorskin-5 .search-results .blog-post h3 a:hover, .colorskin-5 .latestposts-one .latest-title a:hover, #wrap.colorskin-5  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-5 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-5 #footer .footer-instagram-bar a.button
+{ color: #e64883; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-5 .a-post-box .latest-cat, .colorskin-5 .blog-p .blog-cat:hover, .colorskin-5 .side-list li:hover img, .colorskin-5 #scroll-top a:hover, .colorskin-5 #footer .footer-social-bar, .colorskin-5 #footer .tagcloud a:hover, .colorskin-5 .toggle-top-area .tagcloud a:hover, .colorskin-5 #footer .footer-in .widget ul .cat-item:hover, .colorskin-5 .latestposts-three h6.latest-b2-cat:hover, .colorskin-5 .a-post-box .latest-cat, .colorskin-5 .teaser-box2 .content-wrapper h5, .colorskin-5 .latestposts-one .latest-b-cat,  #wrap.colorskin-5 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-5 .max-title5:after, .colorskin-5 .contact-details, .colorskin-5 .contact-form .btnSend:hover, .colorskin-5 .icon-box1:hover i, .colorskin-5 .icon-box4:hover i, .colorskin-5 .icon-box7 a.magicmore:hover, .colorskin-5 a.readmore:hover, .colorskin-5 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-5 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-5 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-5 .widget-tabs .tabs li.active, .colorskin-5 .pin-ecxt .pin-cat:hover
+{ background-color: #e64883; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-5 a.readmore:hover, .colorskin-5 h6.h-sub-content, .colorskin-5 .max-title4:after, .colorskin-5 .contact-form .btnSend:hover, .colorskin-5 .icon-box1:hover i, .colorskin-5 .icon-box4:hover i, .colorskin-5 .max-title2:after, .colorskin-5 .max-title4:after, .colorskin-5 .widget-tabs .tabs li.active, .colorskin-5 .top-links a:hover, .colorskin-5 a.magicmore:after, #wrap.colorskin-5 #footer .footer-instagram-bar a.button
+{ border-color:#e64883; }
+
+
+
+
+
+/* == Color Skin 6 #(Green)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-6 .top-links a:hover, .colorskin-6 .nav-wrap2 #nav > li:hover > a, .colorskin-6 #nav ul li a:hover, .colorskin-6 #nav li.current ul li a:hover, .colorskin-6 .nav-wrap2 #nav ul li a:hover, .colorskin-6 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-6 #nav ul li.current > a, .colorskin-6 #nav ul li:hover > a, .colorskin-6 .a-post-box .latest-title a:hover, .colorskin-6 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-6 .search-results .blog-post h3 a:hover, .colorskin-6 .widget ul .cat-item, .colorskin-6 .widget .widget-tabs .tab_content ul li a, .colorskin-6 .latestposts-three h3.latest-b2-title a:hover, .colorskin-6 .a-post-box .latest-title a:hover, .colorskin-6 .teaser-box1 .content-wrapper a:hover h4, .colorskin-6 .teaser-box2 .content-wrapper a:hover h2, .colorskin-6 .latestposts-six .latest-content p.latest-date, .colorskin-6 .latestposts-six .latest-title a:hover, .colorskin-6 .latest-cat .lc-main h4 a:hover, .colorskin-6 .latest-cat .blog-post p.blog-author a, .colorskin-6 .blog-line:hover h4 a, .colorskin-6 .blog-line:hover .img-hover:before, .colorskin-6 .latestposts-two .latest-title a:hover, .colorskin-6 .latestposts-two .blog-post a:hover, .colorskin-6 .blog-post p.blog-cat a, .colorskin-6 .blog-line p.blog-cat a, .colorskin-6 .latestposts-two .blog-line:hover h4 a, .colorskin-6 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-6 .our-team h5, .colorskin-6 a.magicmore, .colorskin-6 a.magicmore:hover, .colorskin-6 .max-quote h2:before, .colorskin-6 .max-quote h2:after, .colorskin-6 .pin-box h4 a:hover, .colorskin-6 .tline-box h4 a:hover, .colorskin-6 #nav ul li a:hover, .colorskin-6 #nav li.current ul li a:hover, .colorskin-6 .nav-wrap2 #nav ul li a:hover, .colorskin-6 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-6 #nav ul li.current > a, .colorskin-6 #nav ul li:hover > a .colorskin-6 #nav a:hover, .colorskin-6 #nav li:hover > a, .colorskin-6 #nav li.current > a, .colorskin-6 #nav li.active > a, .colorskin-6 .blog-p a:hover, .colorskin-6 .search-results .blog-post h3 a:hover, .colorskin-6 .latestposts-one .latest-title a:hover, #wrap.colorskin-6  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-6 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-6 #footer .footer-instagram-bar a.button
+{ color: #45ab48; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-6 .a-post-box .latest-cat, .colorskin-6 .blog-p .blog-cat:hover, .colorskin-6 .side-list li:hover img, .colorskin-6 #scroll-top a:hover, .colorskin-6 #footer .footer-social-bar, .colorskin-6 #footer .tagcloud a:hover, .colorskin-6 .toggle-top-area .tagcloud a:hover, .colorskin-6 #footer .footer-in .widget ul .cat-item:hover, .colorskin-6 .latestposts-three h6.latest-b2-cat:hover, .colorskin-6 .a-post-box .latest-cat, .colorskin-6 .teaser-box2 .content-wrapper h5, .colorskin-6 .latestposts-one .latest-b-cat,  #wrap.colorskin-6 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-6 .max-title5:after, .colorskin-6 .contact-details, .colorskin-6 .contact-form .btnSend:hover, .colorskin-6 .icon-box1:hover i, .colorskin-6 .icon-box4:hover i, .colorskin-6 .icon-box7 a.magicmore:hover, .colorskin-6 a.readmore:hover, .colorskin-6 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-6 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-6 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-6 .widget-tabs .tabs li.active, .colorskin-6 .pin-ecxt .pin-cat:hover
+{ background-color: #45ab48; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-6 a.readmore:hover, .colorskin-6 h6.h-sub-content, .colorskin-6 .max-title4:after, .colorskin-6 .contact-form .btnSend:hover, .colorskin-6 .icon-box1:hover i, .colorskin-6 .icon-box4:hover i, .colorskin-6 .max-title2:after, .colorskin-6 .max-title4:after, .colorskin-6 .widget-tabs .tabs li.active, .colorskin-6 .top-links a:hover, .colorskin-6 a.magicmore:after, #wrap.colorskin-6 #footer .footer-instagram-bar a.button
+{ border-color:#45ab48; }
+
+
+
+
+
+
+
+/* == Color Skin 7 #(Orchid)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-7 .top-links a:hover, .colorskin-7 .nav-wrap2 #nav > li:hover > a, .colorskin-7 #nav ul li a:hover, .colorskin-7 #nav li.current ul li a:hover, .colorskin-7 .nav-wrap2 #nav ul li a:hover, .colorskin-7 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-7 #nav ul li.current > a, .colorskin-7 #nav ul li:hover > a, .colorskin-7 .a-post-box .latest-title a:hover, .colorskin-7 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-7 .search-results .blog-post h3 a:hover, .colorskin-7 .widget ul .cat-item, .colorskin-7 .widget .widget-tabs .tab_content ul li a, .colorskin-7 .latestposts-three h3.latest-b2-title a:hover, .colorskin-7 .a-post-box .latest-title a:hover, .colorskin-7 .teaser-box1 .content-wrapper a:hover h4, .colorskin-7 .teaser-box2 .content-wrapper a:hover h2, .colorskin-7 .latestposts-six .latest-content p.latest-date, .colorskin-7 .latestposts-six .latest-title a:hover, .colorskin-7 .latest-cat .lc-main h4 a:hover, .colorskin-7 .latest-cat .blog-post p.blog-author a, .colorskin-7 .blog-line:hover h4 a, .colorskin-7 .blog-line:hover .img-hover:before, .colorskin-7 .latestposts-two .latest-title a:hover, .colorskin-7 .latestposts-two .blog-post a:hover, .colorskin-7 .blog-post p.blog-cat a, .colorskin-7 .blog-line p.blog-cat a, .colorskin-7 .latestposts-two .blog-line:hover h4 a, .colorskin-7 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-7 .our-team h5, .colorskin-7 a.magicmore, .colorskin-7 a.magicmore:hover, .colorskin-7 .max-quote h2:before, .colorskin-7 .max-quote h2:after, .colorskin-7 .pin-box h4 a:hover, .colorskin-7 .tline-box h4 a:hover, .colorskin-7 #nav ul li a:hover, .colorskin-7 #nav li.current ul li a:hover, .colorskin-7 .nav-wrap2 #nav ul li a:hover, .colorskin-7 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-7 #nav ul li.current > a, .colorskin-7 #nav ul li:hover > a .colorskin-7 #nav a:hover, .colorskin-7 #nav li:hover > a, .colorskin-7 #nav li.current > a, .colorskin-7 #nav li.active > a, .colorskin-7 .blog-p a:hover, .colorskin-7 .search-results .blog-post h3 a:hover, .colorskin-7 .latestposts-one .latest-title a:hover, #wrap.colorskin-7  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-7 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-7 #footer .footer-instagram-bar a.button
+{ color: #9661ab; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-7 .a-post-box .latest-cat, .colorskin-7 .blog-p .blog-cat:hover, .colorskin-7 .side-list li:hover img, .colorskin-7 #scroll-top a:hover, .colorskin-7 #footer .footer-social-bar, .colorskin-7 #footer .tagcloud a:hover, .colorskin-7 .toggle-top-area .tagcloud a:hover, .colorskin-7 #footer .footer-in .widget ul .cat-item:hover, .colorskin-7 .latestposts-three h6.latest-b2-cat:hover, .colorskin-7 .a-post-box .latest-cat, .colorskin-7 .teaser-box2 .content-wrapper h5, .colorskin-7 .latestposts-one .latest-b-cat,  #wrap.colorskin-7 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-7 .max-title5:after, .colorskin-7 .contact-details, .colorskin-7 .contact-form .btnSend:hover, .colorskin-7 .icon-box1:hover i, .colorskin-7 .icon-box4:hover i, .colorskin-7 .icon-box7 a.magicmore:hover, .colorskin-7 a.readmore:hover, .colorskin-7 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-7 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-7 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-7 .widget-tabs .tabs li.active, .colorskin-7 .pin-ecxt .pin-cat:hover
+{ background-color: #9661ab; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-7 a.readmore:hover, .colorskin-7 h6.h-sub-content, .colorskin-7 .max-title4:after, .colorskin-7 .contact-form .btnSend:hover, .colorskin-7 .icon-box1:hover i, .colorskin-7 .icon-box4:hover i, .colorskin-7 .max-title2:after, .colorskin-7 .max-title4:after, .colorskin-7 .widget-tabs .tabs li.active, .colorskin-7 .top-links a:hover, .colorskin-7 a.magicmore:after, #wrap.colorskin-7 #footer .footer-instagram-bar a.button
+{ border-color: #9661ab; }
+
+
+
+
+
+
+/* == Color Skin 8 #(Jade)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-8 .top-links a:hover, .colorskin-8 .nav-wrap2 #nav > li:hover > a, .colorskin-8 #nav ul li a:hover, .colorskin-8 #nav li.current ul li a:hover, .colorskin-8 .nav-wrap2 #nav ul li a:hover, .colorskin-8 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-8 #nav ul li.current > a, .colorskin-8 #nav ul li:hover > a, .colorskin-8 .a-post-box .latest-title a:hover, .colorskin-8 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-8 .search-results .blog-post h3 a:hover, .colorskin-8 .widget ul .cat-item, .colorskin-8 .widget .widget-tabs .tab_content ul li a, .colorskin-8 .latestposts-three h3.latest-b2-title a:hover, .colorskin-8 .a-post-box .latest-title a:hover, .colorskin-8 .teaser-box1 .content-wrapper a:hover h4, .colorskin-8 .teaser-box2 .content-wrapper a:hover h2, .colorskin-8 .latestposts-six .latest-content p.latest-date, .colorskin-8 .latestposts-six .latest-title a:hover, .colorskin-8 .latest-cat .lc-main h4 a:hover, .colorskin-8 .latest-cat .blog-post p.blog-author a, .colorskin-8 .blog-line:hover h4 a, .colorskin-8 .blog-line:hover .img-hover:before, .colorskin-8 .latestposts-two .latest-title a:hover, .colorskin-8 .latestposts-two .blog-post a:hover, .colorskin-8 .blog-post p.blog-cat a, .colorskin-8 .blog-line p.blog-cat a, .colorskin-8 .latestposts-two .blog-line:hover h4 a, .colorskin-8 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-8 .our-team h5, .colorskin-8 a.magicmore, .colorskin-8 a.magicmore:hover, .colorskin-8 .max-quote h2:before, .colorskin-8 .max-quote h2:after, .colorskin-8 .pin-box h4 a:hover, .colorskin-8 .tline-box h4 a:hover, .colorskin-8 #nav ul li a:hover, .colorskin-8 #nav li.current ul li a:hover, .colorskin-8 .nav-wrap2 #nav ul li a:hover, .colorskin-8 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-8 #nav ul li.current > a, .colorskin-8 #nav ul li:hover > a .colorskin-8 #nav a:hover, .colorskin-8 #nav li:hover > a, .colorskin-8 #nav li.current > a, .colorskin-8 #nav li.active > a, .colorskin-8 .blog-p a:hover, .colorskin-8 .search-results .blog-post h3 a:hover, .colorskin-8 .latestposts-one .latest-title a:hover, #wrap.colorskin-8  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-8 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-8 #footer .footer-instagram-bar a.button
+{ color: #0aad80; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-8 .a-post-box .latest-cat, .colorskin-8 .blog-p .blog-cat:hover, .colorskin-8 .side-list li:hover img, .colorskin-8 #scroll-top a:hover, .colorskin-8 #footer .footer-social-bar, .colorskin-8 #footer .tagcloud a:hover, .colorskin-8 .toggle-top-area .tagcloud a:hover, .colorskin-8 #footer .footer-in .widget ul .cat-item:hover, .colorskin-8 .latestposts-three h6.latest-b2-cat:hover, .colorskin-8 .a-post-box .latest-cat, .colorskin-8 .teaser-box2 .content-wrapper h5, .colorskin-8 .latestposts-one .latest-b-cat,  #wrap.colorskin-8 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-8 .max-title5:after, .colorskin-8 .contact-details, .colorskin-8 .contact-form .btnSend:hover, .colorskin-8 .icon-box1:hover i, .colorskin-8 .icon-box4:hover i, .colorskin-8 .icon-box7 a.magicmore:hover, .colorskin-8 a.readmore:hover, .colorskin-8 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-8 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-8 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-8 .widget-tabs .tabs li.active, .colorskin-8 .pin-ecxt .pin-cat:hover
+{ background-color: #0aad80; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-8 a.readmore:hover, .colorskin-8 h6.h-sub-content, .colorskin-8 .max-title4:after, .colorskin-8 .contact-form .btnSend:hover, .colorskin-8 .icon-box1:hover i, .colorskin-8 .icon-box4:hover i, .colorskin-8 .max-title2:after, .colorskin-8 .max-title4:after, .colorskin-8 .widget-tabs .tabs li.active, .colorskin-8 .top-links a:hover, .colorskin-8 a.magicmore:after, #wrap.colorskin-8 #footer .footer-instagram-bar a.button
+{ border-color: #0aad80; }
+
+
+
+
+
+
+/* == Color Skin 9 #(SkyBlue)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-9 .top-links a:hover, .colorskin-9 .nav-wrap2 #nav > li:hover > a, .colorskin-9 #nav ul li a:hover, .colorskin-9 #nav li.current ul li a:hover, .colorskin-9 .nav-wrap2 #nav ul li a:hover, .colorskin-9 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-9 #nav ul li.current > a, .colorskin-9 #nav ul li:hover > a, .colorskin-9 .a-post-box .latest-title a:hover, .colorskin-9 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-9 .search-results .blog-post h3 a:hover, .colorskin-9 .widget ul .cat-item, .colorskin-9 .widget .widget-tabs .tab_content ul li a, .colorskin-9 .latestposts-three h3.latest-b2-title a:hover, .colorskin-9 .a-post-box .latest-title a:hover, .colorskin-9 .teaser-box1 .content-wrapper a:hover h4, .colorskin-9 .teaser-box2 .content-wrapper a:hover h2, .colorskin-9 .latestposts-six .latest-content p.latest-date, .colorskin-9 .latestposts-six .latest-title a:hover, .colorskin-9 .latest-cat .lc-main h4 a:hover, .colorskin-9 .latest-cat .blog-post p.blog-author a, .colorskin-9 .blog-line:hover h4 a, .colorskin-9 .blog-line:hover .img-hover:before, .colorskin-9 .latestposts-two .latest-title a:hover, .colorskin-9 .latestposts-two .blog-post a:hover, .colorskin-9 .blog-post p.blog-cat a, .colorskin-9 .blog-line p.blog-cat a, .colorskin-9 .latestposts-two .blog-line:hover h4 a, .colorskin-9 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-9 .our-team h5, .colorskin-9 a.magicmore, .colorskin-9 a.magicmore:hover, .colorskin-9 .max-quote h2:before, .colorskin-9 .max-quote h2:after, .colorskin-9 .pin-box h4 a:hover, .colorskin-9 .tline-box h4 a:hover, .colorskin-9 #nav ul li a:hover, .colorskin-9 #nav li.current ul li a:hover, .colorskin-9 .nav-wrap2 #nav ul li a:hover, .colorskin-9 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-9 #nav ul li.current > a, .colorskin-9 #nav ul li:hover > a .colorskin-9 #nav a:hover, .colorskin-9 #nav li:hover > a, .colorskin-9 #nav li.current > a, .colorskin-9 #nav li.active > a, .colorskin-9 .blog-p a:hover, .colorskin-9 .search-results .blog-post h3 a:hover, .colorskin-9 .latestposts-one .latest-title a:hover, #wrap.colorskin-9  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-9 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-9 #footer .footer-instagram-bar a.button
+{ color: #0ab1f0; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-9 .a-post-box .latest-cat, .colorskin-9 .blog-p .blog-cat:hover, .colorskin-9 .side-list li:hover img, .colorskin-9 #scroll-top a:hover, .colorskin-9 #footer .footer-social-bar, .colorskin-9 #footer .tagcloud a:hover, .colorskin-9 .toggle-top-area .tagcloud a:hover, .colorskin-9 #footer .footer-in .widget ul .cat-item:hover, .colorskin-9 .latestposts-three h6.latest-b2-cat:hover, .colorskin-9 .a-post-box .latest-cat, .colorskin-9 .teaser-box2 .content-wrapper h5, .colorskin-9 .latestposts-one .latest-b-cat,  #wrap.colorskin-9 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-9 .max-title5:after, .colorskin-9 .contact-details, .colorskin-9 .contact-form .btnSend:hover, .colorskin-9 .icon-box1:hover i, .colorskin-9 .icon-box4:hover i, .colorskin-9 .icon-box7 a.magicmore:hover, .colorskin-9 a.readmore:hover, .colorskin-9 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-9 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-9 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-9 .widget-tabs .tabs li.active, .colorskin-9 .pin-ecxt .pin-cat:hover
+{ background-color: #0ab1f0; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-9 a.readmore:hover, .colorskin-9 h6.h-sub-content, .colorskin-9 .max-title4:after, .colorskin-9 .contact-form .btnSend:hover, .colorskin-9 .icon-box1:hover i, .colorskin-9 .icon-box4:hover i, .colorskin-9 .max-title2:after, .colorskin-9 .max-title4:after, .colorskin-9 .widget-tabs .tabs li.active, .colorskin-9 .top-links a:hover, .colorskin-9 a.magicmore:after, #wrap.colorskin-9 #footer .footer-instagram-bar a.button
+{ border-color:#0ab1f0; }
+
+
+
+
+
+
+/* == Color Skin 10 #(Orange)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-10 .top-links a:hover, .colorskin-10 .nav-wrap2 #nav > li:hover > a, .colorskin-10 #nav ul li a:hover, .colorskin-10 #nav li.current ul li a:hover, .colorskin-10 .nav-wrap2 #nav ul li a:hover, .colorskin-10 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-10 #nav ul li.current > a, .colorskin-10 #nav ul li:hover > a, .colorskin-10 .a-post-box .latest-title a:hover, .colorskin-10 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-10 .search-results .blog-post h3 a:hover, .colorskin-10 .widget ul .cat-item, .colorskin-10 .widget .widget-tabs .tab_content ul li a, .colorskin-10 .latestposts-three h3.latest-b2-title a:hover, .colorskin-10 .a-post-box .latest-title a:hover, .colorskin-10 .teaser-box1 .content-wrapper a:hover h4, .colorskin-10 .teaser-box2 .content-wrapper a:hover h2, .colorskin-10 .latestposts-six .latest-content p.latest-date, .colorskin-10 .latestposts-six .latest-title a:hover, .colorskin-10 .latest-cat .lc-main h4 a:hover, .colorskin-10 .latest-cat .blog-post p.blog-author a, .colorskin-10 .blog-line:hover h4 a, .colorskin-10 .blog-line:hover .img-hover:before, .colorskin-10 .latestposts-two .latest-title a:hover, .colorskin-10 .latestposts-two .blog-post a:hover, .colorskin-10 .blog-post p.blog-cat a, .colorskin-10 .blog-line p.blog-cat a, .colorskin-10 .latestposts-two .blog-line:hover h4 a, .colorskin-10 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-10 .our-team h5, .colorskin-10 a.magicmore, .colorskin-10 a.magicmore:hover, .colorskin-10 .max-quote h2:before, .colorskin-10 .max-quote h2:after, .colorskin-10 .pin-box h4 a:hover, .colorskin-10 .tline-box h4 a:hover, .colorskin-10 #nav ul li a:hover, .colorskin-10 #nav li.current ul li a:hover, .colorskin-10 .nav-wrap2 #nav ul li a:hover, .colorskin-10 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-10 #nav ul li.current > a, .colorskin-10 #nav ul li:hover > a .colorskin-10 #nav a:hover, .colorskin-10 #nav li:hover > a, .colorskin-10 #nav li.current > a, .colorskin-10 #nav li.active > a, .colorskin-10 .blog-p a:hover, .colorskin-10 .search-results .blog-post h3 a:hover, .colorskin-10 .latestposts-one .latest-title a:hover, #wrap.colorskin-10  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-10 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-10 #footer .footer-instagram-bar a.button
+{ color: #ff5a00; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-10 .a-post-box .latest-cat, .colorskin-10 .blog-p .blog-cat:hover, .colorskin-10 .side-list li:hover img, .colorskin-10 #scroll-top a:hover, .colorskin-10 #footer .footer-social-bar, .colorskin-10 #footer .tagcloud a:hover, .colorskin-10 .toggle-top-area .tagcloud a:hover, .colorskin-10 #footer .footer-in .widget ul .cat-item:hover, .colorskin-10 .latestposts-three h6.latest-b2-cat:hover, .colorskin-10 .a-post-box .latest-cat, .colorskin-10 .teaser-box2 .content-wrapper h5, .colorskin-10 .latestposts-one .latest-b-cat,  #wrap.colorskin-10 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-10 .max-title5:after, .colorskin-10 .contact-details, .colorskin-10 .contact-form .btnSend:hover, .colorskin-10 .icon-box1:hover i, .colorskin-10 .icon-box4:hover i, .colorskin-10 .icon-box7 a.magicmore:hover, .colorskin-10 a.readmore:hover, .colorskin-10 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-10 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-10 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-10 .widget-tabs .tabs li.active, .colorskin-10 .pin-ecxt .pin-cat:hover
+{ background-color: #ff5a00; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-10 a.readmore:hover, .colorskin-10 h6.h-sub-content, .colorskin-10 .max-title4:after, .colorskin-10 .contact-form .btnSend:hover, .colorskin-10 .icon-box1:hover i, .colorskin-10 .icon-box4:hover i, .colorskin-10 .max-title2:after, .colorskin-10 .max-title4:after, .colorskin-10 .widget-tabs .tabs li.active, .colorskin-10 .top-links a:hover, .colorskin-10 a.magicmore:after, #wrap.colorskin-10 #footer .footer-instagram-bar a.button
+{ border-color:#ff5a00; }
+
+
+
+
+
+
+/* == Color Skin 11 #(SplashOrange)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-11 .top-links a:hover, .colorskin-11 .nav-wrap2 #nav > li:hover > a, .colorskin-11 #nav ul li a:hover, .colorskin-11 #nav li.current ul li a:hover, .colorskin-11 .nav-wrap2 #nav ul li a:hover, .colorskin-11 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-11 #nav ul li.current > a, .colorskin-11 #nav ul li:hover > a, .colorskin-11 .a-post-box .latest-title a:hover, .colorskin-11 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-11 .search-results .blog-post h3 a:hover, .colorskin-11 .widget ul .cat-item, .colorskin-11 .widget .widget-tabs .tab_content ul li a, .colorskin-11 .latestposts-three h3.latest-b2-title a:hover, .colorskin-11 .a-post-box .latest-title a:hover, .colorskin-11 .teaser-box1 .content-wrapper a:hover h4, .colorskin-11 .teaser-box2 .content-wrapper a:hover h2, .colorskin-11 .latestposts-six .latest-content p.latest-date, .colorskin-11 .latestposts-six .latest-title a:hover, .colorskin-11 .latest-cat .lc-main h4 a:hover, .colorskin-11 .latest-cat .blog-post p.blog-author a, .colorskin-11 .blog-line:hover h4 a, .colorskin-11 .blog-line:hover .img-hover:before, .colorskin-11 .latestposts-two .latest-title a:hover, .colorskin-11 .latestposts-two .blog-post a:hover, .colorskin-11 .blog-post p.blog-cat a, .colorskin-11 .blog-line p.blog-cat a, .colorskin-11 .latestposts-two .blog-line:hover h4 a, .colorskin-11 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-11 .our-team h5, .colorskin-11 a.magicmore, .colorskin-11 a.magicmore:hover, .colorskin-11 .max-quote h2:before, .colorskin-11 .max-quote h2:after, .colorskin-11 .pin-box h4 a:hover, .colorskin-11 .tline-box h4 a:hover, .colorskin-11 #nav ul li a:hover, .colorskin-11 #nav li.current ul li a:hover, .colorskin-11 .nav-wrap2 #nav ul li a:hover, .colorskin-11 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-11 #nav ul li.current > a, .colorskin-11 #nav ul li:hover > a .colorskin-11 #nav a:hover, .colorskin-11 #nav li:hover > a, .colorskin-11 #nav li.current > a, .colorskin-11 #nav li.active > a, .colorskin-11 .blog-p a:hover, .colorskin-11 .search-results .blog-post h3 a:hover, .colorskin-11 .latestposts-one .latest-title a:hover, #wrap.colorskin-11  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-11 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-11 #footer .footer-instagram-bar a.button
+{ color: #c3512f; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-11 .a-post-box .latest-cat, .colorskin-11 .blog-p .blog-cat:hover, .colorskin-11 .side-list li:hover img, .colorskin-11 #scroll-top a:hover, .colorskin-11 #footer .footer-social-bar, .colorskin-11 #footer .tagcloud a:hover, .colorskin-11 .toggle-top-area .tagcloud a:hover, .colorskin-11 #footer .footer-in .widget ul .cat-item:hover, .colorskin-11 .latestposts-three h6.latest-b2-cat:hover, .colorskin-11 .a-post-box .latest-cat, .colorskin-11 .teaser-box2 .content-wrapper h5, .colorskin-11 .latestposts-one .latest-b-cat,  #wrap.colorskin-11 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-11 .max-title5:after, .colorskin-11 .contact-details, .colorskin-11 .contact-form .btnSend:hover, .colorskin-11 .icon-box1:hover i, .colorskin-11 .icon-box4:hover i, .colorskin-11 .icon-box7 a.magicmore:hover, .colorskin-11 a.readmore:hover, .colorskin-11 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-11 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-11 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-11 .widget-tabs .tabs li.active, .colorskin-11 .pin-ecxt .pin-cat:hover
+{ background-color: #c3512f; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-11 a.readmore:hover, .colorskin-11 h6.h-sub-content, .colorskin-11 .max-title4:after, .colorskin-11 .contact-form .btnSend:hover, .colorskin-11 .icon-box1:hover i, .colorskin-11 .icon-box4:hover i, .colorskin-11 .max-title2:after, .colorskin-11 .max-title4:after, .colorskin-11 .widget-tabs .tabs li.active, .colorskin-11 .top-links a:hover, .colorskin-11 a.magicmore:after, #wrap.colorskin-11 #footer .footer-instagram-bar a.button
+{ border-color:#c3512f; }
+
+
+
+
+
+
+/* == Color Skin 12 #(DarkBlue)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-12 .top-links a:hover, .colorskin-12 .nav-wrap2 #nav > li:hover > a, .colorskin-12 #nav ul li a:hover, .colorskin-12 #nav li.current ul li a:hover, .colorskin-12 .nav-wrap2 #nav ul li a:hover, .colorskin-12 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-12 #nav ul li.current > a, .colorskin-12 #nav ul li:hover > a, .colorskin-12 .a-post-box .latest-title a:hover, .colorskin-12 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-12 .search-results .blog-post h3 a:hover, .colorskin-12 .widget ul .cat-item, .colorskin-12 .widget .widget-tabs .tab_content ul li a, .colorskin-12 .latestposts-three h3.latest-b2-title a:hover, .colorskin-12 .a-post-box .latest-title a:hover, .colorskin-12 .teaser-box1 .content-wrapper a:hover h4, .colorskin-12 .teaser-box2 .content-wrapper a:hover h2, .colorskin-12 .latestposts-six .latest-content p.latest-date, .colorskin-12 .latestposts-six .latest-title a:hover, .colorskin-12 .latest-cat .lc-main h4 a:hover, .colorskin-12 .latest-cat .blog-post p.blog-author a, .colorskin-12 .blog-line:hover h4 a, .colorskin-12 .blog-line:hover .img-hover:before, .colorskin-12 .latestposts-two .latest-title a:hover, .colorskin-12 .latestposts-two .blog-post a:hover, .colorskin-12 .blog-post p.blog-cat a, .colorskin-12 .blog-line p.blog-cat a, .colorskin-12 .latestposts-two .blog-line:hover h4 a, .colorskin-12 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-12 .our-team h5, .colorskin-12 a.magicmore, .colorskin-12 a.magicmore:hover, .colorskin-12 .max-quote h2:before, .colorskin-12 .max-quote h2:after, .colorskin-12 .pin-box h4 a:hover, .colorskin-12 .tline-box h4 a:hover, .colorskin-12 #nav ul li a:hover, .colorskin-12 #nav li.current ul li a:hover, .colorskin-12 .nav-wrap2 #nav ul li a:hover, .colorskin-12 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-12 #nav ul li.current > a, .colorskin-12 #nav ul li:hover > a .colorskin-12 #nav a:hover, .colorskin-12 #nav li:hover > a, .colorskin-12 #nav li.current > a, .colorskin-12 #nav li.active > a, .colorskin-12 .blog-p a:hover, .colorskin-12 .search-results .blog-post h3 a:hover, .colorskin-12 .latestposts-one .latest-title a:hover, #wrap.colorskin-12  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-12 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-12 #footer .footer-instagram-bar a.button
+{ color: #55606e; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-12 .a-post-box .latest-cat, .colorskin-12 .blog-p .blog-cat:hover, .colorskin-12 .side-list li:hover img, .colorskin-12 #scroll-top a:hover, .colorskin-12 #footer .footer-social-bar, .colorskin-12 #footer .tagcloud a:hover, .colorskin-12 .toggle-top-area .tagcloud a:hover, .colorskin-12 #footer .footer-in .widget ul .cat-item:hover, .colorskin-12 .latestposts-three h6.latest-b2-cat:hover, .colorskin-12 .a-post-box .latest-cat, .colorskin-12 .teaser-box2 .content-wrapper h5, .colorskin-12 .latestposts-one .latest-b-cat,  #wrap.colorskin-12 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-12 .max-title5:after, .colorskin-12 .contact-details, .colorskin-12 .contact-form .btnSend:hover, .colorskin-12 .icon-box1:hover i, .colorskin-12 .icon-box4:hover i, .colorskin-12 .icon-box7 a.magicmore:hover, .colorskin-12 a.readmore:hover, .colorskin-12 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-12 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-12 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-12 .widget-tabs .tabs li.active, .colorskin-12 .pin-ecxt .pin-cat:hover
+{ background-color: #55606e; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-12 a.readmore:hover, .colorskin-12 h6.h-sub-content, .colorskin-12 .max-title4:after, .colorskin-12 .contact-form .btnSend:hover, .colorskin-12 .icon-box1:hover i, .colorskin-12 .icon-box4:hover i, .colorskin-12 .max-title2:after, .colorskin-12 .max-title4:after, .colorskin-12 .widget-tabs .tabs li.active, .colorskin-12 .top-links a:hover, .colorskin-12 a.magicmore:after, #wrap.colorskin-12 #footer .footer-instagram-bar a.button
+{ border-color:#55606e; }
+
+
+
+
+
+
+/* == Color Skin 13 #(CoralPink)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-13 .top-links a:hover, .colorskin-13 .nav-wrap2 #nav > li:hover > a, .colorskin-13 #nav ul li a:hover, .colorskin-13 #nav li.current ul li a:hover, .colorskin-13 .nav-wrap2 #nav ul li a:hover, .colorskin-13 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-13 #nav ul li.current > a, .colorskin-13 #nav ul li:hover > a, .colorskin-13 .a-post-box .latest-title a:hover, .colorskin-13 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-13 .search-results .blog-post h3 a:hover, .colorskin-13 .widget ul .cat-item, .colorskin-13 .widget .widget-tabs .tab_content ul li a, .colorskin-13 .latestposts-three h3.latest-b2-title a:hover, .colorskin-13 .a-post-box .latest-title a:hover, .colorskin-13 .teaser-box1 .content-wrapper a:hover h4, .colorskin-13 .teaser-box2 .content-wrapper a:hover h2, .colorskin-13 .latestposts-six .latest-content p.latest-date, .colorskin-13 .latestposts-six .latest-title a:hover, .colorskin-13 .latest-cat .lc-main h4 a:hover, .colorskin-13 .latest-cat .blog-post p.blog-author a, .colorskin-13 .blog-line:hover h4 a, .colorskin-13 .blog-line:hover .img-hover:before, .colorskin-13 .latestposts-two .latest-title a:hover, .colorskin-13 .latestposts-two .blog-post a:hover, .colorskin-13 .blog-post p.blog-cat a, .colorskin-13 .blog-line p.blog-cat a, .colorskin-13 .latestposts-two .blog-line:hover h4 a, .colorskin-13 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-13 .our-team h5, .colorskin-13 a.magicmore, .colorskin-13 a.magicmore:hover, .colorskin-13 .max-quote h2:before, .colorskin-13 .max-quote h2:after, .colorskin-13 .pin-box h4 a:hover, .colorskin-13 .tline-box h4 a:hover, .colorskin-13 #nav ul li a:hover, .colorskin-13 #nav li.current ul li a:hover, .colorskin-13 .nav-wrap2 #nav ul li a:hover, .colorskin-13 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-13 #nav ul li.current > a, .colorskin-13 #nav ul li:hover > a .colorskin-13 #nav a:hover, .colorskin-13 #nav li:hover > a, .colorskin-13 #nav li.current > a, .colorskin-13 #nav li.active > a, .colorskin-13 .blog-p a:hover, .colorskin-13 .search-results .blog-post h3 a:hover, .colorskin-13 .latestposts-one .latest-title a:hover, #wrap.colorskin-13  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-13 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-13 #footer .footer-instagram-bar a.button
+{ color: #fe8178; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-13 .a-post-box .latest-cat, .colorskin-13 .blog-p .blog-cat:hover, .colorskin-13 .side-list li:hover img, .colorskin-13 #scroll-top a:hover, .colorskin-13 #footer .footer-social-bar, .colorskin-13 #footer .tagcloud a:hover, .colorskin-13 .toggle-top-area .tagcloud a:hover, .colorskin-13 #footer .footer-in .widget ul .cat-item:hover, .colorskin-13 .latestposts-three h6.latest-b2-cat:hover, .colorskin-13 .a-post-box .latest-cat, .colorskin-13 .teaser-box2 .content-wrapper h5, .colorskin-13 .latestposts-one .latest-b-cat,  #wrap.colorskin-13 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-13 .max-title5:after, .colorskin-13 .contact-details, .colorskin-13 .contact-form .btnSend:hover, .colorskin-13 .icon-box1:hover i, .colorskin-13 .icon-box4:hover i, .colorskin-13 .icon-box7 a.magicmore:hover, .colorskin-13 a.readmore:hover, .colorskin-13 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-13 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-13 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-13 .widget-tabs .tabs li.active, .colorskin-13 .pin-ecxt .pin-cat:hover
+{ background-color: #fe8178; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-13 a.readmore:hover, .colorskin-13 h6.h-sub-content, .colorskin-13 .max-title4:after, .colorskin-13 .contact-form .btnSend:hover, .colorskin-13 .icon-box1:hover i, .colorskin-13 .icon-box4:hover i, .colorskin-13 .max-title2:after, .colorskin-13 .max-title4:after, .colorskin-13 .widget-tabs .tabs li.active, .colorskin-13 .top-links a:hover, .colorskin-13 a.magicmore:after, #wrap.colorskin-13 #footer .footer-instagram-bar a.button
+{ border-color:#fe8178; }
+
+
+
+
+
+/* == Color Skin 14 #(Brown)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-14 .top-links a:hover, .colorskin-14 .nav-wrap2 #nav > li:hover > a, .colorskin-14 #nav ul li a:hover, .colorskin-14 #nav li.current ul li a:hover, .colorskin-14 .nav-wrap2 #nav ul li a:hover, .colorskin-14 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-14 #nav ul li.current > a, .colorskin-14 #nav ul li:hover > a, .colorskin-14 .a-post-box .latest-title a:hover, .colorskin-14 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-14 .search-results .blog-post h3 a:hover, .colorskin-14 .widget ul .cat-item, .colorskin-14 .widget .widget-tabs .tab_content ul li a, .colorskin-14 .latestposts-three h3.latest-b2-title a:hover, .colorskin-14 .a-post-box .latest-title a:hover, .colorskin-14 .teaser-box1 .content-wrapper a:hover h4, .colorskin-14 .teaser-box2 .content-wrapper a:hover h2, .colorskin-14 .latestposts-six .latest-content p.latest-date, .colorskin-14 .latestposts-six .latest-title a:hover, .colorskin-14 .latest-cat .lc-main h4 a:hover, .colorskin-14 .latest-cat .blog-post p.blog-author a, .colorskin-14 .blog-line:hover h4 a, .colorskin-14 .blog-line:hover .img-hover:before, .colorskin-14 .latestposts-two .latest-title a:hover, .colorskin-14 .latestposts-two .blog-post a:hover, .colorskin-14 .blog-post p.blog-cat a, .colorskin-14 .blog-line p.blog-cat a, .colorskin-14 .latestposts-two .blog-line:hover h4 a, .colorskin-14 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-14 .our-team h5, .colorskin-14 a.magicmore, .colorskin-14 a.magicmore:hover, .colorskin-14 .max-quote h2:before, .colorskin-14 .max-quote h2:after, .colorskin-14 .pin-box h4 a:hover, .colorskin-14 .tline-box h4 a:hover, .colorskin-14 #nav ul li a:hover, .colorskin-14 #nav li.current ul li a:hover, .colorskin-14 .nav-wrap2 #nav ul li a:hover, .colorskin-14 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-14 #nav ul li.current > a, .colorskin-14 #nav ul li:hover > a .colorskin-14 #nav a:hover, .colorskin-14 #nav li:hover > a, .colorskin-14 #nav li.current > a, .colorskin-14 #nav li.active > a, .colorskin-14 .blog-p a:hover, .colorskin-14 .search-results .blog-post h3 a:hover, .colorskin-14 .latestposts-one .latest-title a:hover, #wrap.colorskin-14  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-14 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-14 #footer .footer-instagram-bar a.button
+{ color: #7c6853; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-14 .a-post-box .latest-cat, .colorskin-14 .blog-p .blog-cat:hover, .colorskin-14 .side-list li:hover img, .colorskin-14 #scroll-top a:hover, .colorskin-14 #footer .footer-social-bar, .colorskin-14 #footer .tagcloud a:hover, .colorskin-14 .toggle-top-area .tagcloud a:hover, .colorskin-14 #footer .footer-in .widget ul .cat-item:hover, .colorskin-14 .latestposts-three h6.latest-b2-cat:hover, .colorskin-14 .a-post-box .latest-cat, .colorskin-14 .teaser-box2 .content-wrapper h5, .colorskin-14 .latestposts-one .latest-b-cat,  #wrap.colorskin-14 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-14 .max-title5:after, .colorskin-14 .contact-details, .colorskin-14 .contact-form .btnSend:hover, .colorskin-14 .icon-box1:hover i, .colorskin-14 .icon-box4:hover i, .colorskin-14 .icon-box7 a.magicmore:hover, .colorskin-14 a.readmore:hover, .colorskin-14 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-14 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-14 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-14 .widget-tabs .tabs li.active, .colorskin-14 .pin-ecxt .pin-cat:hover
+{ background-color: #7c6853; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-14 a.readmore:hover, .colorskin-14 h6.h-sub-content, .colorskin-14 .max-title4:after, .colorskin-14 .contact-form .btnSend:hover, .colorskin-14 .icon-box1:hover i, .colorskin-14 .icon-box4:hover i, .colorskin-14 .max-title2:after, .colorskin-14 .max-title4:after, .colorskin-14 .widget-tabs .tabs li.active, .colorskin-14 .top-links a:hover, .colorskin-14 a.magicmore:after, #wrap.colorskin-14 #footer .footer-instagram-bar a.button
+{ border-color:#7c6853; }
+
+
+
+
+
+
+
+/* == Color Skin 15 #(GreenYellow)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-15 .top-links a:hover, .colorskin-15 .nav-wrap2 #nav > li:hover > a, .colorskin-15 #nav ul li a:hover, .colorskin-15 #nav li.current ul li a:hover, .colorskin-15 .nav-wrap2 #nav ul li a:hover, .colorskin-15 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-15 #nav ul li.current > a, .colorskin-15 #nav ul li:hover > a, .colorskin-15 .a-post-box .latest-title a:hover, .colorskin-15 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-15 .search-results .blog-post h3 a:hover, .colorskin-15 .widget ul .cat-item, .colorskin-15 .widget .widget-tabs .tab_content ul li a, .colorskin-15 .latestposts-three h3.latest-b2-title a:hover, .colorskin-15 .a-post-box .latest-title a:hover, .colorskin-15 .teaser-box1 .content-wrapper a:hover h4, .colorskin-15 .teaser-box2 .content-wrapper a:hover h2, .colorskin-15 .latestposts-six .latest-content p.latest-date, .colorskin-15 .latestposts-six .latest-title a:hover, .colorskin-15 .latest-cat .lc-main h4 a:hover, .colorskin-15 .latest-cat .blog-post p.blog-author a, .colorskin-15 .blog-line:hover h4 a, .colorskin-15 .blog-line:hover .img-hover:before, .colorskin-15 .latestposts-two .latest-title a:hover, .colorskin-15 .latestposts-two .blog-post a:hover, .colorskin-15 .blog-post p.blog-cat a, .colorskin-15 .blog-line p.blog-cat a, .colorskin-15 .latestposts-two .blog-line:hover h4 a, .colorskin-15 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-15 .our-team h5, .colorskin-15 a.magicmore, .colorskin-15 a.magicmore:hover, .colorskin-15 .max-quote h2:before, .colorskin-15 .max-quote h2:after, .colorskin-15 .pin-box h4 a:hover, .colorskin-15 .tline-box h4 a:hover, .colorskin-15 #nav ul li a:hover, .colorskin-15 #nav li.current ul li a:hover, .colorskin-15 .nav-wrap2 #nav ul li a:hover, .colorskin-15 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-15 #nav ul li.current > a, .colorskin-15 #nav ul li:hover > a .colorskin-15 #nav a:hover, .colorskin-15 #nav li:hover > a, .colorskin-15 #nav li.current > a, .colorskin-15 #nav li.active > a, .colorskin-15 .blog-p a:hover, .colorskin-15 .search-results .blog-post h3 a:hover, .colorskin-15 .latestposts-one .latest-title a:hover, #wrap.colorskin-15  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-15 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-15 #footer .footer-instagram-bar a.button
+{ color: #bed431; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-15 .a-post-box .latest-cat, .colorskin-15 .blog-p .blog-cat:hover, .colorskin-15 .side-list li:hover img, .colorskin-15 #scroll-top a:hover, .colorskin-15 #footer .footer-social-bar, .colorskin-15 #footer .tagcloud a:hover, .colorskin-15 .toggle-top-area .tagcloud a:hover, .colorskin-15 #footer .footer-in .widget ul .cat-item:hover, .colorskin-15 .latestposts-three h6.latest-b2-cat:hover, .colorskin-15 .a-post-box .latest-cat, .colorskin-15 .teaser-box2 .content-wrapper h5, .colorskin-15 .latestposts-one .latest-b-cat,  #wrap.colorskin-15 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-15 .max-title5:after, .colorskin-15 .contact-details, .colorskin-15 .contact-form .btnSend:hover, .colorskin-15 .icon-box1:hover i, .colorskin-15 .icon-box4:hover i, .colorskin-15 .icon-box7 a.magicmore:hover, .colorskin-15 a.readmore:hover, .colorskin-15 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-15 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-15 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-15 .widget-tabs .tabs li.active, .colorskin-15 .pin-ecxt .pin-cat:hover
+{ background-color: #bed431; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-15 a.readmore:hover, .colorskin-15 h6.h-sub-content, .colorskin-15 .max-title4:after, .colorskin-15 .contact-form .btnSend:hover, .colorskin-15 .icon-box1:hover i, .colorskin-15 .icon-box4:hover i, .colorskin-15 .max-title2:after, .colorskin-15 .max-title4:after, .colorskin-15 .widget-tabs .tabs li.active, .colorskin-15 .top-links a:hover, .colorskin-15 a.magicmore:after, #wrap.colorskin-15 #footer .footer-instagram-bar a.button
+{ border-color:#bed431; }
+
+
+
+
+
+
+/* == Color Skin 16 #(SplashBlue)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-16 .top-links a:hover, .colorskin-16 .nav-wrap2 #nav > li:hover > a, .colorskin-16 #nav ul li a:hover, .colorskin-16 #nav li.current ul li a:hover, .colorskin-16 .nav-wrap2 #nav ul li a:hover, .colorskin-16 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-16 #nav ul li.current > a, .colorskin-16 #nav ul li:hover > a, .colorskin-16 .a-post-box .latest-title a:hover, .colorskin-16 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-16 .search-results .blog-post h3 a:hover, .colorskin-16 .widget ul .cat-item, .colorskin-16 .widget .widget-tabs .tab_content ul li a, .colorskin-16 .latestposts-three h3.latest-b2-title a:hover, .colorskin-16 .a-post-box .latest-title a:hover, .colorskin-16 .teaser-box1 .content-wrapper a:hover h4, .colorskin-16 .teaser-box2 .content-wrapper a:hover h2, .colorskin-16 .latestposts-six .latest-content p.latest-date, .colorskin-16 .latestposts-six .latest-title a:hover, .colorskin-16 .latest-cat .lc-main h4 a:hover, .colorskin-16 .latest-cat .blog-post p.blog-author a, .colorskin-16 .blog-line:hover h4 a, .colorskin-16 .blog-line:hover .img-hover:before, .colorskin-16 .latestposts-two .latest-title a:hover, .colorskin-16 .latestposts-two .blog-post a:hover, .colorskin-16 .blog-post p.blog-cat a, .colorskin-16 .blog-line p.blog-cat a, .colorskin-16 .latestposts-two .blog-line:hover h4 a, .colorskin-16 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-16 .our-team h5, .colorskin-16 a.magicmore, .colorskin-16 a.magicmore:hover, .colorskin-16 .max-quote h2:before, .colorskin-16 .max-quote h2:after, .colorskin-16 .pin-box h4 a:hover, .colorskin-16 .tline-box h4 a:hover, .colorskin-16 #nav ul li a:hover, .colorskin-16 #nav li.current ul li a:hover, .colorskin-16 .nav-wrap2 #nav ul li a:hover, .colorskin-16 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-16 #nav ul li.current > a, .colorskin-16 #nav ul li:hover > a .colorskin-16 #nav a:hover, .colorskin-16 #nav li:hover > a, .colorskin-16 #nav li.current > a, .colorskin-16 #nav li.active > a, .colorskin-16 .blog-p a:hover, .colorskin-16 .search-results .blog-post h3 a:hover, .colorskin-16 .latestposts-one .latest-title a:hover, #wrap.colorskin-16  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-16 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-16 #footer .footer-instagram-bar a.button
+{ color: #2d5c88; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-16 .a-post-box .latest-cat, .colorskin-16 .blog-p .blog-cat:hover, .colorskin-16 .side-list li:hover img, .colorskin-16 #scroll-top a:hover, .colorskin-16 #footer .footer-social-bar, .colorskin-16 #footer .tagcloud a:hover, .colorskin-16 .toggle-top-area .tagcloud a:hover, .colorskin-16 #footer .footer-in .widget ul .cat-item:hover, .colorskin-16 .latestposts-three h6.latest-b2-cat:hover, .colorskin-16 .a-post-box .latest-cat, .colorskin-16 .teaser-box2 .content-wrapper h5, .colorskin-16 .latestposts-one .latest-b-cat,  #wrap.colorskin-16 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-16 .max-title5:after, .colorskin-16 .contact-details, .colorskin-16 .contact-form .btnSend:hover, .colorskin-16 .icon-box1:hover i, .colorskin-16 .icon-box4:hover i, .colorskin-16 .icon-box7 a.magicmore:hover, .colorskin-16 a.readmore:hover, .colorskin-16 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-16 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-16 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-16 .widget-tabs .tabs li.active, .colorskin-16 .pin-ecxt .pin-cat:hover
+{ background-color: #2d5c88; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-16 a.readmore:hover, .colorskin-16 h6.h-sub-content, .colorskin-16 .max-title4:after, .colorskin-16 .contact-form .btnSend:hover, .colorskin-16 .icon-box1:hover i, .colorskin-16 .icon-box4:hover i, .colorskin-16 .max-title2:after, .colorskin-16 .max-title4:after, .colorskin-16 .widget-tabs .tabs li.active, .colorskin-16 .top-links a:hover, .colorskin-16 a.magicmore:after, #wrap.colorskin-16 #footer .footer-instagram-bar a.button
+{ border-color:#2d5c88; }
+
+
+
+
+
+
+/* == Color Skin 17 #(Gray)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-17 .top-links a:hover, .colorskin-17 .nav-wrap2 #nav > li:hover > a, .colorskin-17 #nav ul li a:hover, .colorskin-17 #nav li.current ul li a:hover, .colorskin-17 .nav-wrap2 #nav ul li a:hover, .colorskin-17 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-17 #nav ul li.current > a, .colorskin-17 #nav ul li:hover > a, .colorskin-17 .a-post-box .latest-title a:hover, .colorskin-17 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-17 .search-results .blog-post h3 a:hover, .colorskin-17 .widget ul .cat-item, .colorskin-17 .widget .widget-tabs .tab_content ul li a, .colorskin-17 .latestposts-three h3.latest-b2-title a:hover, .colorskin-17 .a-post-box .latest-title a:hover, .colorskin-17 .teaser-box1 .content-wrapper a:hover h4, .colorskin-17 .teaser-box2 .content-wrapper a:hover h2, .colorskin-17 .latestposts-six .latest-content p.latest-date, .colorskin-17 .latestposts-six .latest-title a:hover, .colorskin-17 .latest-cat .lc-main h4 a:hover, .colorskin-17 .latest-cat .blog-post p.blog-author a, .colorskin-17 .blog-line:hover h4 a, .colorskin-17 .blog-line:hover .img-hover:before, .colorskin-17 .latestposts-two .latest-title a:hover, .colorskin-17 .latestposts-two .blog-post a:hover, .colorskin-17 .blog-post p.blog-cat a, .colorskin-17 .blog-line p.blog-cat a, .colorskin-17 .latestposts-two .blog-line:hover h4 a, .colorskin-17 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-17 .our-team h5, .colorskin-17 a.magicmore, .colorskin-17 a.magicmore:hover, .colorskin-17 .max-quote h2:before, .colorskin-17 .max-quote h2:after, .colorskin-17 .pin-box h4 a:hover, .colorskin-17 .tline-box h4 a:hover, .colorskin-17 #nav ul li a:hover, .colorskin-17 #nav li.current ul li a:hover, .colorskin-17 .nav-wrap2 #nav ul li a:hover, .colorskin-17 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-17 #nav ul li.current > a, .colorskin-17 #nav ul li:hover > a .colorskin-17 #nav a:hover, .colorskin-17 #nav li:hover > a, .colorskin-17 #nav li.current > a, .colorskin-17 #nav li.active > a, .colorskin-17 .blog-p a:hover, .colorskin-17 .search-results .blog-post h3 a:hover, .colorskin-17 .latestposts-one .latest-title a:hover, #wrap.colorskin-17  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-17 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-17 #footer .footer-instagram-bar a.button
+{ color: #333; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-17 .a-post-box .latest-cat, .colorskin-17 .blog-p .blog-cat:hover, .colorskin-17 .side-list li:hover img, .colorskin-17 #scroll-top a:hover, .colorskin-17 #footer .footer-social-bar, .colorskin-17 #footer .tagcloud a:hover, .colorskin-17 .toggle-top-area .tagcloud a:hover, .colorskin-17 #footer .footer-in .widget ul .cat-item:hover, .colorskin-17 .latestposts-three h6.latest-b2-cat:hover, .colorskin-17 .a-post-box .latest-cat, .colorskin-17 .teaser-box2 .content-wrapper h5, .colorskin-17 .latestposts-one .latest-b-cat,  #wrap.colorskin-17 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-17 .max-title5:after, .colorskin-17 .contact-details, .colorskin-17 .contact-form .btnSend:hover, .colorskin-17 .icon-box1:hover i, .colorskin-17 .icon-box4:hover i, .colorskin-17 .icon-box7 a.magicmore:hover, .colorskin-17 a.readmore:hover, .colorskin-17 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-17 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-17 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-17 .widget-tabs .tabs li.active, .colorskin-17 .pin-ecxt .pin-cat:hover
+{ background-color: #333; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-17 a.readmore:hover, .colorskin-17 h6.h-sub-content, .colorskin-17 .max-title4:after, .colorskin-17 .contact-form .btnSend:hover, .colorskin-17 .icon-box1:hover i, .colorskin-17 .icon-box4:hover i, .colorskin-17 .max-title2:after, .colorskin-17 .max-title4:after, .colorskin-17 .widget-tabs .tabs li.active, .colorskin-17 .top-links a:hover, .colorskin-17 a.magicmore:after, #wrap.colorskin-17 #footer .footer-instagram-bar a.button
+{ border-color:#333; }
+
+
+
+
+
+
+/* == Color Skin 18 #(Cyan)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-18 .top-links a:hover, .colorskin-18 .nav-wrap2 #nav > li:hover > a, .colorskin-18 #nav ul li a:hover, .colorskin-18 #nav li.current ul li a:hover, .colorskin-18 .nav-wrap2 #nav ul li a:hover, .colorskin-18 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-18 #nav ul li.current > a, .colorskin-18 #nav ul li:hover > a, .colorskin-18 .a-post-box .latest-title a:hover, .colorskin-18 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-18 .search-results .blog-post h3 a:hover, .colorskin-18 .widget ul .cat-item, .colorskin-18 .widget .widget-tabs .tab_content ul li a, .colorskin-18 .latestposts-three h3.latest-b2-title a:hover, .colorskin-18 .a-post-box .latest-title a:hover, .colorskin-18 .teaser-box1 .content-wrapper a:hover h4, .colorskin-18 .teaser-box2 .content-wrapper a:hover h2, .colorskin-18 .latestposts-six .latest-content p.latest-date, .colorskin-18 .latestposts-six .latest-title a:hover, .colorskin-18 .latest-cat .lc-main h4 a:hover, .colorskin-18 .latest-cat .blog-post p.blog-author a, .colorskin-18 .blog-line:hover h4 a, .colorskin-18 .blog-line:hover .img-hover:before, .colorskin-18 .latestposts-two .latest-title a:hover, .colorskin-18 .latestposts-two .blog-post a:hover, .colorskin-18 .blog-post p.blog-cat a, .colorskin-18 .blog-line p.blog-cat a, .colorskin-18 .latestposts-two .blog-line:hover h4 a, .colorskin-18 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-18 .our-team h5, .colorskin-18 a.magicmore, .colorskin-18 a.magicmore:hover, .colorskin-18 .max-quote h2:before, .colorskin-18 .max-quote h2:after, .colorskin-18 .pin-box h4 a:hover, .colorskin-18 .tline-box h4 a:hover, .colorskin-18 #nav ul li a:hover, .colorskin-18 #nav li.current ul li a:hover, .colorskin-18 .nav-wrap2 #nav ul li a:hover, .colorskin-18 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-18 #nav ul li.current > a, .colorskin-18 #nav ul li:hover > a .colorskin-18 #nav a:hover, .colorskin-18 #nav li:hover > a, .colorskin-18 #nav li.current > a, .colorskin-18 #nav li.active > a, .colorskin-18 .blog-p a:hover, .colorskin-18 .search-results .blog-post h3 a:hover, .colorskin-18 .latestposts-one .latest-title a:hover, #wrap.colorskin-18  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-18 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-18 #footer .footer-instagram-bar a.button
+{ color: #2997ab; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-18 .a-post-box .latest-cat, .colorskin-18 .blog-p .blog-cat:hover, .colorskin-18 .side-list li:hover img, .colorskin-18 #scroll-top a:hover, .colorskin-18 #footer .footer-social-bar, .colorskin-18 #footer .tagcloud a:hover, .colorskin-18 .toggle-top-area .tagcloud a:hover, .colorskin-18 #footer .footer-in .widget ul .cat-item:hover, .colorskin-18 .latestposts-three h6.latest-b2-cat:hover, .colorskin-18 .a-post-box .latest-cat, .colorskin-18 .teaser-box2 .content-wrapper h5, .colorskin-18 .latestposts-one .latest-b-cat,  #wrap.colorskin-18 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-18 .max-title5:after, .colorskin-18 .contact-details, .colorskin-18 .contact-form .btnSend:hover, .colorskin-18 .icon-box1:hover i, .colorskin-18 .icon-box4:hover i, .colorskin-18 .icon-box7 a.magicmore:hover, .colorskin-18 a.readmore:hover, .colorskin-18 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-18 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-18 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-18 .widget-tabs .tabs li.active, .colorskin-18 .pin-ecxt .pin-cat:hover
+{ background-color: #2997ab; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-18 a.readmore:hover, .colorskin-18 h6.h-sub-content, .colorskin-18 .max-title4:after, .colorskin-18 .contact-form .btnSend:hover, .colorskin-18 .icon-box1:hover i, .colorskin-18 .icon-box4:hover i, .colorskin-18 .max-title2:after, .colorskin-18 .max-title4:after, .colorskin-18 .widget-tabs .tabs li.active, .colorskin-18 .top-links a:hover, .colorskin-18 a.magicmore:after, #wrap.colorskin-18 #footer .footer-instagram-bar a.button
+{ border-color:#2997ab; }
+
+
+
+
+
+
+/* == Color Skin 19 #(Vine)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-19 .top-links a:hover, .colorskin-19 .nav-wrap2 #nav > li:hover > a, .colorskin-19 #nav ul li a:hover, .colorskin-19 #nav li.current ul li a:hover, .colorskin-19 .nav-wrap2 #nav ul li a:hover, .colorskin-19 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-19 #nav ul li.current > a, .colorskin-19 #nav ul li:hover > a, .colorskin-19 .a-post-box .latest-title a:hover, .colorskin-19 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-19 .search-results .blog-post h3 a:hover, .colorskin-19 .widget ul .cat-item, .colorskin-19 .widget .widget-tabs .tab_content ul li a, .colorskin-19 .latestposts-three h3.latest-b2-title a:hover, .colorskin-19 .a-post-box .latest-title a:hover, .colorskin-19 .teaser-box1 .content-wrapper a:hover h4, .colorskin-19 .teaser-box2 .content-wrapper a:hover h2, .colorskin-19 .latestposts-six .latest-content p.latest-date, .colorskin-19 .latestposts-six .latest-title a:hover, .colorskin-19 .latest-cat .lc-main h4 a:hover, .colorskin-19 .latest-cat .blog-post p.blog-author a, .colorskin-19 .blog-line:hover h4 a, .colorskin-19 .blog-line:hover .img-hover:before, .colorskin-19 .latestposts-two .latest-title a:hover, .colorskin-19 .latestposts-two .blog-post a:hover, .colorskin-19 .blog-post p.blog-cat a, .colorskin-19 .blog-line p.blog-cat a, .colorskin-19 .latestposts-two .blog-line:hover h4 a, .colorskin-19 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-19 .our-team h5, .colorskin-19 a.magicmore, .colorskin-19 a.magicmore:hover, .colorskin-19 .max-quote h2:before, .colorskin-19 .max-quote h2:after, .colorskin-19 .pin-box h4 a:hover, .colorskin-19 .tline-box h4 a:hover, .colorskin-19 #nav ul li a:hover, .colorskin-19 #nav li.current ul li a:hover, .colorskin-19 .nav-wrap2 #nav ul li a:hover, .colorskin-19 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-19 #nav ul li.current > a, .colorskin-19 #nav ul li:hover > a .colorskin-19 #nav a:hover, .colorskin-19 #nav li:hover > a, .colorskin-19 #nav li.current > a, .colorskin-19 #nav li.active > a, .colorskin-19 .blog-p a:hover, .colorskin-19 .search-results .blog-post h3 a:hover, .colorskin-19 .latestposts-one .latest-title a:hover, #wrap.colorskin-19  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-19 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-19 #footer .footer-instagram-bar a.button
+{ color: #734854; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-19 .a-post-box .latest-cat, .colorskin-19 .blog-p .blog-cat:hover, .colorskin-19 .side-list li:hover img, .colorskin-19 #scroll-top a:hover, .colorskin-19 #footer .footer-social-bar, .colorskin-19 #footer .tagcloud a:hover, .colorskin-19 .toggle-top-area .tagcloud a:hover, .colorskin-19 #footer .footer-in .widget ul .cat-item:hover, .colorskin-19 .latestposts-three h6.latest-b2-cat:hover, .colorskin-19 .a-post-box .latest-cat, .colorskin-19 .teaser-box2 .content-wrapper h5, .colorskin-19 .latestposts-one .latest-b-cat,  #wrap.colorskin-19 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-19 .max-title5:after, .colorskin-19 .contact-details, .colorskin-19 .contact-form .btnSend:hover, .colorskin-19 .icon-box1:hover i, .colorskin-19 .icon-box4:hover i, .colorskin-19 .icon-box7 a.magicmore:hover, .colorskin-19 a.readmore:hover, .colorskin-19 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-19 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-19 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-19 .widget-tabs .tabs li.active, .colorskin-19 .pin-ecxt .pin-cat:hover
+{ background-color: #734854; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-19 a.readmore:hover, .colorskin-19 h6.h-sub-content, .colorskin-19 .max-title4:after, .colorskin-19 .contact-form .btnSend:hover, .colorskin-19 .icon-box1:hover i, .colorskin-19 .icon-box4:hover i, .colorskin-19 .max-title2:after, .colorskin-19 .max-title4:after, .colorskin-19 .widget-tabs .tabs li.active, .colorskin-19 .top-links a:hover, .colorskin-19 a.magicmore:after, #wrap.colorskin-19 #footer .footer-instagram-bar a.button
+{ border-color:#734854; }
+
+
+
+
+
+/* == Color Skin 20 #(SplashRed)#
+=================================== */
+
+/* == TextColors
+---------------- */
+.colorskin-20 .top-links a:hover, .colorskin-20 .nav-wrap2 #nav > li:hover > a, .colorskin-20 #nav ul li a:hover, .colorskin-20 #nav li.current ul li a:hover, .colorskin-20 .nav-wrap2 #nav ul li a:hover, .colorskin-20 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-20 #nav ul li.current > a, .colorskin-20 #nav ul li:hover > a, .colorskin-20 .a-post-box .latest-title a:hover, .colorskin-20 .wpb_gallery_slides .flex-caption h6 a:hover, .colorskin-20 .search-results .blog-post h3 a:hover, .colorskin-20 .widget ul .cat-item, .colorskin-20 .widget .widget-tabs .tab_content ul li a, .colorskin-20 .latestposts-three h3.latest-b2-title a:hover, .colorskin-20 .a-post-box .latest-title a:hover, .colorskin-20 .teaser-box1 .content-wrapper a:hover h4, .colorskin-20 .teaser-box2 .content-wrapper a:hover h2, .colorskin-20 .latestposts-six .latest-content p.latest-date, .colorskin-20 .latestposts-six .latest-title a:hover, .colorskin-20 .latest-cat .lc-main h4 a:hover, .colorskin-20 .latest-cat .blog-post p.blog-author a, .colorskin-20 .blog-line:hover h4 a, .colorskin-20 .blog-line:hover .img-hover:before, .colorskin-20 .latestposts-two .latest-title a:hover, .colorskin-20 .latestposts-two .blog-post a:hover, .colorskin-20 .blog-post p.blog-cat a, .colorskin-20 .blog-line p.blog-cat a, .colorskin-20 .latestposts-two .blog-line:hover h4 a, .colorskin-20 .latestposts-two .blog-line:hover .img-hover:before, .colorskin-20 .our-team h5, .colorskin-20 a.magicmore, .colorskin-20 a.magicmore:hover, .colorskin-20 .max-quote h2:before, .colorskin-20 .max-quote h2:after, .colorskin-20 .pin-box h4 a:hover, .colorskin-20 .tline-box h4 a:hover, .colorskin-20 #nav ul li a:hover, .colorskin-20 #nav li.current ul li a:hover, .colorskin-20 .nav-wrap2 #nav ul li a:hover, .colorskin-20 .nav-wrap2.darknavi #nav ul li a:hover, .colorskin-20 #nav ul li.current > a, .colorskin-20 #nav ul li:hover > a .colorskin-20 #nav a:hover, .colorskin-20 #nav li:hover > a, .colorskin-20 #nav li.current > a, .colorskin-20 #nav li.active > a, .colorskin-20 .blog-p a:hover, .colorskin-20 .search-results .blog-post h3 a:hover, .colorskin-20 .latestposts-one .latest-title a:hover, #wrap.colorskin-20  .vc_carousel.vc_carousel_horizontal.hero-carousel h2.post-title a:hover, .colorskin-20 #footer .footer-instagram-bar .footer-instagram-text i, #wrap.colorskin-20 #footer .footer-instagram-bar a.button
+{ color: #a81010; }
+
+
+/* == Backgrounds
+----------------- */
+.colorskin-20 .a-post-box .latest-cat, .colorskin-20 .blog-p .blog-cat:hover, .colorskin-20 .side-list li:hover img, .colorskin-20 #scroll-top a:hover, .colorskin-20 #footer .footer-social-bar, .colorskin-20 #footer .tagcloud a:hover, .colorskin-20 .toggle-top-area .tagcloud a:hover, .colorskin-20 #footer .footer-in .widget ul .cat-item:hover, .colorskin-20 .latestposts-three h6.latest-b2-cat:hover, .colorskin-20 .a-post-box .latest-cat, .colorskin-20 .teaser-box2 .content-wrapper h5, .colorskin-20 .latestposts-one .latest-b-cat,  #wrap.colorskin-20 .vc_carousel.vc_carousel_horizontal.hero-carousel .hero-carousel-wrap .hero-metadata .category a, .colorskin-20 .max-title5:after, .colorskin-20 .contact-details, .colorskin-20 .contact-form .btnSend:hover, .colorskin-20 .icon-box1:hover i, .colorskin-20 .icon-box4:hover i, .colorskin-20 .icon-box7 a.magicmore:hover, .colorskin-20 a.readmore:hover, .colorskin-20 #header.sm-rgt-mn #menu-icon span.mn-ext1,.colorskin-20 #header.sm-rgt-mn #menu-icon span.mn-ext2,.colorskin-20 #header.sm-rgt-mn #menu-icon span.mn-ext3, .colorskin-20 .widget-tabs .tabs li.active, .colorskin-20 .pin-ecxt .pin-cat:hover
+{ background-color: #a81010; }
+
+
+/* == BorderColors
+------------------ */
+.colorskin-20 a.readmore:hover, .colorskin-20 h6.h-sub-content, .colorskin-20 .max-title4:after, .colorskin-20 .contact-form .btnSend:hover, .colorskin-20 .icon-box1:hover i, .colorskin-20 .icon-box4:hover i, .colorskin-20 .max-title2:after, .colorskin-20 .max-title4:after, .colorskin-20 .widget-tabs .tabs li.active, .colorskin-20 .top-links a:hover, .colorskin-20 a.magicmore:after, #wrap.colorskin-20 #footer .footer-instagram-bar a.button
+{ border-color:#a81010; }
+
